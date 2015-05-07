@@ -1,3 +1,3 @@
 from mcpi import minecraft
 mc = minecraft.Minecraft.create()
-mc.postToChat("Hello I am Black bananaman")
+mc.postToChat("Hello World")
